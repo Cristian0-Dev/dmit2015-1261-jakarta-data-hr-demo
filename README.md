@@ -126,17 +126,14 @@ After completing the practice exercise, the application should also support sear
 
 ## Connection to Assignment 4
 
-This lesson uses the Oracle **Human Resources** schema.
+This lesson uses the Oracle **Human Resources (HR)** sample database to demonstrate Database-First entity generation, Jakarta Data repositories, and PrimeFaces AutoComplete.
 
-Assignment 4 uses the Oracle **Customer Orders** schema to search for products and inventory across stores.
+In Assignment 4, you will apply these same concepts using the Oracle **Customer Orders (CO)** sample database.
 
-You will apply the same Database-First, Jakarta Data, AutoComplete, converter, and relationship-query concepts in Assignment 4.
-
-**Do not substitute this classroom demo project for your Assignment 4 repository.**
+**This classroom demo is a separate learning activity and is not a substitute for the Assignment 4 starter project.**
 
 ## Reference Materials
 
 - DMIT2015 – Jakarta Data lesson slides
-- Assignment 4 specification and starter project
-- Jakarta Data 1.0 specification
-- Hibernate Data Repositories documentation
+- [Jakarta Data 1.0 Specification](https://jakarta.ee/specifications/data/1.0/)
+- [Hibernate Data Repositories Documentation](https://docs.jboss.org/hibernate/orm/7.1/repositories/html_single/Hibernate_Data_Repositories.html)
