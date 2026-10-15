@@ -41,13 +41,13 @@ Use the dependencies and versions provided in this starter project.
 Start the Oracle container on the course Ubuntu Desktop VM:
 
 ```bash
-sudo podman start dmit2015-oracle-free-lite
+podman start dmit2015-oracle-free-lite
 ```
 
 Check its status:
 
 ```bash
-sudo podman ps
+podman ps
 ```
 
 ### 2. Open the Project
